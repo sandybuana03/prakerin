@@ -8,5 +8,5 @@ Klik tulisan biru untuk mendownload
 - [4.Lampiran.doc](https://github.com/sandybuana03/prakerin/raw/main/4.Lampiran.doc)
 
 
-# PEDOMAN SISTEMATIKA PENULISAN
+### PEDOMAN SISTEMATIKA PENULISAN
 - [Pedoman_Sistematika_Penulisan_Laporan.doc](https://github.com/sandybuana03/prakerin/raw/main/Pedoman_Sistematika_Penulisan_Laporan.doc)
